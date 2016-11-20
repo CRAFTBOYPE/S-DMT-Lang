@@ -1,0 +1,9 @@
+# English Language file for S-DMT
+# ------------------------------
+Name: English
+Authors: [Aericio]
+Version: 1.0.0
+Lines:
+  server.name: §l§dS§6-§cDMT§r
+  server.name.full: §l§dSublimated §cDimethyltryptamine§r
+  join.welcome: Welcome on {server}§b, §a{name}§b!

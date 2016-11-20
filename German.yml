@@ -1,0 +1,9 @@
+# German Language file for S-DMT
+# ------------------------------
+Name: German
+Authors: [SalmonDE]
+Version: 1.0.0
+Lines:
+  server.name: §l§dS§6-§cDMT§r
+  server.name.full: §l§dSublimiertes §cDimethyltryptamin§r
+  join.welcome: Willkommen auf {server}§b, §a{name}§b!
