@@ -1,0 +1,9 @@
+# Ukraine Language file for S-DMT
+# ------------------------------
+Name: Ukraine
+Authors: [opkiler22789]
+Version: 1.0.0
+Lines:
+  server.name: §l§dS§6-§cDMT§r
+  server.name.full: §l§dSublimated §cDimethyltryptamine§r
+  join.welcome: Вітаємо вас на {server}§b, §a{name}§b!
