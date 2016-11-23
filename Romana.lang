@@ -1,0 +1,9 @@
+# Limba Romana pentru S-DMT
+# ------------------------------
+Name: Romana
+Authors: [NycuRO]
+Version: 1.0.0
+Lines:
+  server.name: §l§dS§6-§cDMT§r
+  server.name.full: §l§dInscris §cDimethyltryptamine§r
+  join.welcome: Bine ai venit pe {server}§b, §a{name}§b!
