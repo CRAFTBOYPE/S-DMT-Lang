@@ -1,0 +1,9 @@
+# Spanish Language file for S-DMT
+# ------------------------------
+Name: Spanish
+Authors: [LewBr]
+Version: 1.0.0
+Lines:
+  server.name: §l§dS§6-§cDMT§r
+  server.name.full: §l§dSublimado §cDimetiltriptaMine§r
+  join.welcome: Bien venido en el {server}§b, §a{name}§b!
