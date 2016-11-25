@@ -1,0 +1,9 @@
+# Portuguese Language file for S-DMT
+# ------------------------------
+Name: Portugiesich
+Authors: [LewBr]
+Version: 1.0.0
+Lines:
+  server.name: §l§dS§6-§cDMT§r
+  server.name.full: §l§dSublimado §cDimethyltryptamine§r
+  join.welcome: Bem vindo ao {server}§b, §a{name}§b!
