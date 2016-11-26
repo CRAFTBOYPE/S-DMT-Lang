@@ -7,3 +7,5 @@ Lines:
   server.name: §l§dS§6-§cDMT§r
   server.name.full: §l§dSublimiertes §cDimethyltryptamin§r
   join.welcome: Willkommen auf {server}§b, §a{name}§b!
+  antispam.wait: Bitte lasse dir mehr Zeit, bevor du noch eine Nachricht in den Chat sendest!
+  antispam.similar: Bitte versuche, nicht ähnliche Chat Nachrichten zu schreiben!

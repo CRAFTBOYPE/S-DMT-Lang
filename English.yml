@@ -7,3 +7,5 @@ Lines:
   server.name: §l§dS§6-§cDMT§r
   server.name.full: §l§dSublimated §cDimethyltryptamine§r
   join.welcome: Welcome to {server}§b, §a{name}§b!
+  antispam.wait: Please wait until you send another message!
+  antispam.similar: Please prevent to write similar messages!
