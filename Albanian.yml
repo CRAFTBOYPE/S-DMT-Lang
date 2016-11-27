@@ -1,0 +1,11 @@
+# Albanian language file for S-DMT
+# ------------------------------
+Name: Albanian
+Authors: [CRAFTBOYPE]
+Version: 1.0
+Lines:
+ server.name: §1§dS§6-§cDMT§r
+ server.name.full: §1§dDimethyltryptamin §ci Sublimuar§r
+ join.welcome: Mirësevini ne {server}§b, §a{name}§b!
+ antispam.wait: Ju lutem merrni me shumë kohe, para se ta dërgoni mesazhin tuaj!
+ antispam.similar: Ju lutem provoni, te mos dërgoni mesazh në mënyrë të ngjashmë në faqën e bisedës!
